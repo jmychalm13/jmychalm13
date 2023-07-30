@@ -1,6 +1,8 @@
-### Hi 👋, my name is **Jess Mychal Moore**. Thanks for checking out my profile!
-
 <img src="https://avatars.githubusercontent.com/u/104534587?v=4" align="right">
+
+### Hi 👋, my name is  Jess Mychal Moore:star2:.
+---
+
 
 
 
