@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:E975A8,100:726CF8&height=300&section=header&text=Jess%20Mychal%20Moore&fontSize=60&desc=Developer&animation=scaleIn&fontColor=fff)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,react,bootstrap,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,react,bootstrap,tailwind&perline=4" />
+  </a>
+</p>
 
 <img src="https://avatars.githubusercontent.com/u/104534587?v=4" height="auto" width="200" style="border-radius:50%" align="right">
 
