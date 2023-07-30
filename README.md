@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/104534587?v=4" align="right">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jess%20Mychal&fontSize=90&desc=Developer)
+
+<img src="https://avatars.githubusercontent.com/u/104534587?v=4" height="auto" width="200" style="border-radius:50%" align="right">
 
 ### Hi 👋, my name is  Jess Mychal Moore:star2:.
 ---
