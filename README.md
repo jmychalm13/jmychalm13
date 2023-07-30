@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:E975A8,100:726CF8&height=300&section=header&text=Jess%20Mychal&fontSize=90&desc=Developer&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:E975A8,100:726CF8&height=300&section=header&text=Jess%20Mychal&fontSize=90&desc=Developer&animation=scaleIn&fontColor=fff)
 
 <img src="https://avatars.githubusercontent.com/u/104534587?v=4" height="auto" width="200" style="border-radius:50%" align="right">
 
