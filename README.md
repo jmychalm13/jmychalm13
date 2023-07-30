@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, my name is **Jess Mychal Moore**. Thanks for checking out my profile!
+
+
 
 <!--
 **jmychalm13/jmychalm13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
