@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=DC32BF&height=125&section=header&text=Jess%20Mychal%20Moore&fontSize=60&desc=Developer&animation=scaleIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=DC32BF&height=125&section=header&text=Jess%20Mychal%20Moore&fontSize=60&animation=scaleIn&fontColor=fff)
+
+<h1 align="center">
+   Code the Cool Stuff!!!
+</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
