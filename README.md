@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=FE7A59&height=300&section=header&text=Jess%20Mychal%20Moore&fontSize=60&desc=Developer&animation=scaleIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=DC32BF&height=300&section=header&text=Jess%20Mychal%20Moore&fontSize=60&desc=Developer&animation=scaleIn&fontColor=fff)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" height="auto" width="200" style="border-radius:50%" align="right">
+<img src="https://media1.giphy.com/media/8anYtaUxuQ1dOjocF4/200w.webp?cid=ecf05e47y9p4l5hp15z31u3hrhte381hchqm7ruwslfehcsd&ep=v1_gifs_search&rid=200w.webp&ct=g" height="auto" width="300" style="border-radius:50%" align="right">
 
 ### Hi 👋, my name is  Jess Mychal Moore:star2:.
 ---
