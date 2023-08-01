@@ -16,7 +16,7 @@
 ---
 ### Hi 👋, my name is  Jess Mychal Moore:star2: and here are a few fun facts about me:
 - 🔭 I'm currently working on building a revision of an inventory management app.
-- 🌱 I'm currently learning how to build full-stack Rails apps.
+- 🌱 I'm learning how to build full-stack Rails apps and api's.
 - 💬 Ask me about my plants, my dog, or my passion for programming!
 
 
