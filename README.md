@@ -15,8 +15,8 @@
 
 ---
 ### Hi 👋, my name is  Jess Mychal Moore:star2: and here are a few fun facts about me:
-- 🔭 I'm currently working on building a revision of an inventory management app.
-- 🌱 I'm learning how to work with React and Ruby on Rails.
+- 🔭 I'm currently working on building a social media app for dog lovers.
+- 🌱 I'm learning to work with React and Ruby on Rails.
 - 💬 Ask me about my plants, my dog, or my passion for programming!
 
 
